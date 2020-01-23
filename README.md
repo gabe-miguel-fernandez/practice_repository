@@ -1,2 +1,3 @@
 # practice_repository
-my test repo for git and GitHub
+My test repo for git and GitHub.
+This is a just for my MEDA class.
